@@ -45,8 +45,6 @@ Connect with me
 - Algorithms and Data Structures
 
 
-#### 📈 GitHub stats:
-
 <a href="https://github.com/bradleyplunkett">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bradleyplunkett&hide=issues,stars&show_icons=true&theme=vision-friendly-dark" />
 </a>
