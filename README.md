@@ -13,7 +13,7 @@ Front End Developer & 3x Marathon Runner
 </a>
 </h4>
 
-Email me! <a href="mailto:bradley.n.plunkett.16@gmail.com?subject=Email from Github README">email</a> 💬
+<a href="mailto:bradley.n.plunkett.16@gmail.com?subject=Email from Github README">Email Me</a> 💬
 
 #### 💼 Technical skills
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
