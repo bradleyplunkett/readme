@@ -16,6 +16,8 @@ Connect with me
 
 <a href="mailto:bradley.n.plunkett.16@gmail.com?subject=Email from Github README">Email Me</a> 💬
 
+<a href="https://www.linkedin.com/in/bradleyplunkett/">Hire Me</a> 💬
+
 #### 💼 Technical skills
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
