@@ -38,16 +38,12 @@ Connect with me
 ![Figma](https://img.shields.io/badge/Tools-Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=%23F24E1E)
 ![Heroku](https://img.shields.io/badge/Tools-Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 
-#### 🔭 Currently working on:
-
-- bradleyplunkett.com
-- Practicing algorithms
-
-#### 🌱 Currently learning:
-
+#### 🔭 Currently learning:
 - Responsive Web Design
 - TypeScript
 - Firebase
+- Algorithms and Data Structures
+
 
 #### 📈 GitHub stats:
 
