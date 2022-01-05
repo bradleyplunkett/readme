@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there 👋 I'm Brad Plunkett
+I'm Brad Plunkett, thanks for checking out my GitHub!
 </h1>
 
 <h2 align="center">
@@ -27,12 +27,9 @@ Connect with me
 ![Postgres](https://img.shields.io/badge/Code-PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Code-Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=52B0E7)
 ![JWT](https://img.shields.io/badge/Code-JWT-black?style=plastic&logo=JSON%20web%20tokens)
-
-</br>
-
 ![CSS](https://img.shields.io/badge/Style-CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=%231572B6)
 
-</br>
+
 
 ![Git](https://img.shields.io/badge/Tools-Git-%23F05033.svg?style=plastic&logo=git&logoColor=%23F05033)
 ![Webpack](https://img.shields.io/badge/Tools-Webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=%238DD6F9)
