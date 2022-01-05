@@ -7,10 +7,11 @@ Front End Developer & 3x Marathon Runner
 </h2>
 
 <h4>
-🤝 Connect with me: 
+
 <a href="https://www.linkedin.com/in/bradleyplunkett/">
 <img align="center" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1641353671~hmac=c4c71b2bfba56acc0575b2224a1256d7" alt="icon | LinkedIn" width="21px"/>
-</a>
+Connect with me
+</a>🤝
 </h4>
 
 <a href="mailto:bradley.n.plunkett.16@gmail.com?subject=Email from Github README">Email Me</a> 💬
