@@ -3,7 +3,7 @@ I'm Brad Plunkett, thanks for checking out my GitHub!
 </h1>
 
 <h2 align="center">
-Web Developer & 3x Marathon Runner
+Solutions Engineer @ Dynatrace & 3x Marathon Runner
 </h2>
 
 <h4>
