@@ -3,7 +3,7 @@ I'm Brad Plunkett, thanks for checking out my GitHub!
 </h1>
 
 <h2 align="center">
-Solutions Engineer @ Dynatrace & 3x Marathon Runner
+Solutions Engineer @ Dynatrace & 4x Marathon Runner
 </h2>
 
 <h4>
@@ -37,12 +37,6 @@ Connect with me
 ![NodeJS](https://img.shields.io/badge/Tools-Node.js-6DA55F?style=plastic&logo=node.js&logoColor=6DA55F)
 ![Figma](https://img.shields.io/badge/Tools-Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=%23F24E1E)
 ![Heroku](https://img.shields.io/badge/Tools-Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-
-#### 🔭 Currently learning:
-- Responsive Web Design
-- TypeScript
-- Firebase
-- Algorithms and Data Structures
 
 
 #### 📈 Check out my stats:
