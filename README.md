@@ -17,6 +17,20 @@ Connect with me
 <a href="mailto:bradley.n.plunkett.16@gmail.com?subject=Email from Github README">Email Me</a> 
 
 #### 💼 Technologies I've used before
+Javascript
+HTML
+CSS
+Java
+
+React
+Redux
+React Native
+Express.JS
+Postgres
+Sequelize
+NodeJS
+Spring
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
 ![CSS](https://img.shields.io/badge/Style-CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=%231572B6)
